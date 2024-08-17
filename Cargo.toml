@@ -1,0 +1,7 @@
+[package]
+name = "productivity-ensurer-rust"
+version = "1.0.0"
+edition = "2021"
+
+[dependencies]
+msgbox = "0.7.0"
